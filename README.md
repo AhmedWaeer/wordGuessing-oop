@@ -1,6 +1,4 @@
-#  Build Word-Guessing Game Cli
 
- a Word Guess command-line game using OOP, using class syntax.
 
 # Word Guess Cli
 
